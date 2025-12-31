@@ -1,7 +1,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Jatin Kumar</h1>
 
 <p>
-  <em>AAspiring Data Engineer focused on building production-style data pipelines and cloud-based data systems</em>
+  <em>Aspiring Data Engineer focused on building production-style data pipelines and cloud-based data systems</em>
   <br/>
   <em>🎓 Final-year IT student at USICT</em>
 </p>
